@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "book backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "author": "rushikesh kulkarni",
+  "license": "ISC"
+}
